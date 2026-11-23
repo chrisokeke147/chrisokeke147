@@ -1,4 +1,4 @@
-## Christian Okeke
+## Nnamdi Christian Okeke
 
 Co-founder and CTO of **Novapath Technologies**, building **TRY**, keke ride-hailing for Nigerian cities.
 
